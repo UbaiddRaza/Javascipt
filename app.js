@@ -42,10 +42,13 @@
 
 
 
-console.log(20>20 || 10<=10 && 20>20)
+// console.log(20>20 || 10<=10 && 20>20)
 
 
+alert("welcome to this website")
+alert("error, please enter a valid password")
 
+alert("welcome to JS land" , "happy coding")
 
 
 
