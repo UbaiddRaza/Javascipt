@@ -45,10 +45,32 @@
 // console.log(20>20 || 10<=10 && 20>20)
 
 
-alert("welcome to this website")
-alert("error, please enter a valid password")
+// alert("welcome to this website")
+// alert("error, please enter a valid password")
 
-alert("welcome to JS land" , "happy coding")
+// alert("welcome to JS land" , "happy coding")
 
+
+
+var name = ("Ubaid")
+var username = ("ubaidraza")
+var lastname = ("raza")
+
+console.log(name , username, lastname)
+
+
+
+// legal names
+var name11 = ("Ubaid")
+var name21 = ("Ubaid")
+var nam31 = ("Ubaid")
+var name22 = ("Ubaid")
+var name_ = ("Ubaid")
+// illegal names
+// var 12name = ("Ubaid")
+// var 22name = ("Ubaid")
+// var name& = ("Ubaid")
+// var name-last = ("Ubaid")
+// var name) = ("Ubaid")
 
 
