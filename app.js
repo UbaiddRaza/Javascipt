@@ -52,20 +52,20 @@
 
 
 
-var name = ("Ubaid")
-var username = ("ubaidraza")
-var lastname = ("raza")
+// var name = ("Ubaid")
+// var username = ("ubaidraza")
+// var lastname = ("raza")
 
-console.log(name , username, lastname)
+// console.log(name , username, lastname)
 
 
 
 // legal names
-var name11 = ("Ubaid")
-var name21 = ("Ubaid")
-var nam31 = ("Ubaid")
-var name22 = ("Ubaid")
-var name_ = ("Ubaid")
+// var name11 = ("Ubaid")
+// var name21 = ("Ubaid")
+// var nam31 = ("Ubaid")
+// var name22 = ("Ubaid")
+// var name_ = ("Ubaid")
 // illegal names
 // var 12name = ("Ubaid")
 // var 22name = ("Ubaid")
@@ -73,4 +73,97 @@ var name_ = ("Ubaid")
 // var name-last = ("Ubaid")
 // var name) = ("Ubaid")
 
+
+
+//  CLASS 3 
+
+
+
+
+// control flow (if else)
+// GRADE GAME 
+// var grade = prompt("Enter your grade: ")
+// if(grade >= 80){
+//     console.log("A+")
+// } else if(grade >= 70){
+//     console.log("B")
+// }else if(grade >= 60){
+//     console.log("C")
+// }else if(grade >= 50){
+//     console.log("D")
+// }else if(grade >= 40){
+//     console.log("E")
+// }else{
+//     console.log("Fail")
+// }
+
+// GYM GAME
+// var age = prompt("Enter your age: ")
+
+// if (age <= 15){
+//     console.log("admission nahi milega bachey")
+// } else if(age > 15 && age <=18){
+//     console.log("admission miljayga but 500 extra")
+// }  else if(age > 18 && age <=50){
+//     console.log("admission miljayga")
+// } else{
+//     console.log("admission nahi milega")
+// }
+
+// NUMBER GAME 
+// var number = prompt("enter number between 1 to 10:")
+// if (number == 7){
+//     console.log("maalik jeet gaye ho")
+// } else if(number == 6){
+//     console.log("qareeb ho")
+// }  else if(number == 8){
+//     console.log("qareeb ho")
+// } else if(number == 9){
+//     console.log("galat jawaab")
+// } else if(number <=5){
+//     console.log("galat jawaab")
+// } else{
+//     console.log("number 10 se chota do"
+//     )
+// }
+
+//    PERCENTAGE GAME 
+// var totalMarks = 400
+// var maths = Number(prompt("enter ur marks for maths"))
+// var english = Number(prompt("enter ur marks for english"))
+// var urdu = Number(prompt("enter ur marks for urdu"))
+// var islamiat = Number(prompt("enter ur marks for islamiat"))
+// var totalObtained = (maths + english + urdu + islamiat)
+
+// console.log((totalObtained/totalMarks) * 100 )
+
+
+// function hello(){
+//     console.log("hello world")
+// }
+
+// hello()
+
+
+// function userage(username , age){
+//     console.log(username + age)
+// }
+//     userage("ubaid" , 18)
+
+
+// function addition(num1, num2){
+//   console.log(num1 + num2)
+// }
+
+
+// var result = addition(20, 30)
+
+// console.log(result)
+
+
+function calculatePercentage(chemMarks, phyMarks, comMarks, engMarks){
+    console.log((chemMarks + phyMarks + comMarks + engMarks)/400 *100)
+}
+
+calculatePercentage(40, 50 , 80, 40)
 
