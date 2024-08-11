@@ -161,9 +161,21 @@
 // console.log(result)
 
 
-function calculatePercentage(chemMarks, phyMarks, comMarks, engMarks){
-    console.log((chemMarks + phyMarks + comMarks + engMarks)/400 *100)
+// function calculatePercentage(chemMarks, phyMarks, comMarks, engMarks){
+//     console.log((chemMarks + phyMarks + comMarks + engMarks)/400 *100)
+// }
+
+// calculatePercentage(40, 50 , 80, 40)
+
+
+// var head = document.querySelector("#headTag")
+// console.log(head.innerHTML)
+
+// head.innerHTML = 20
+
+
+
+function hello(){
+  
+
 }
-
-calculatePercentage(40, 50 , 80, 40)
-
