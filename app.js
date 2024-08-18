@@ -174,8 +174,117 @@
 // head.innerHTML = 20
 
 
+// if else 
+// if else if
+// nested if
+// functions 
+// dom manipulation 
+// var city = "lahore"
+// if(city=="karachi"){
+//     console.log("you are in karachi")
 
-function hello(){
-  
+// }else{
+//     console.log("you are not in karachi")
+// }
 
-}
+// var num = 2;
+
+// if(num >= 20){
+//     console.log("number bara haa..");
+// } else if(num > 15){
+//     console.log("number bara ha 15 saa");
+// }else {
+//     console.log('else chal rha ha');
+    
+// }
+
+// if(10 > 5){
+//     console.log("if chal rha ha");
+//     if(20 < 50){
+//         console.log('nested if');
+//     }
+// }else{
+//     console.log('else chal rha ha');
+    
+// }
+
+// function hello() {
+//     console.log("hello world");
+//     console.log("hello world");
+//     console.log("hello world");
+//     console.log("hello world");
+// }
+
+// hello()
+
+
+// function greetUser (username){ //parameter receive krna
+//     console.log('hello ' + username);
+// }
+// greetUser("abdullah") //argument pass krna
+
+
+// var h1 = document.querySelector("#class")
+
+// function changeText(){
+//     h1.innerHTML = "changed through javascript"
+// }
+
+// var fullname = document.querySelector("#fullname")
+// var password = document.querySelector("#password")
+// var email = document.querySelector("#email")
+
+// function callFunction(){
+//     console.log(fullname.value)
+//     console.log(password.value)
+//     console.log(email.value)
+    
+
+// }
+
+// var num1 = document.querySelector("#num1");
+// var num2 = document.querySelector("#num2");
+// var result = document.querySelector("#result");
+
+// function addValue() {
+//   var addition = +num1.value + +num2.value
+//   console.log(addition)
+//   result.innerHTML = "sum is " + addition
+// }
+
+// function clears() {
+//     num1.value = "";
+//     num2.value = "";
+//     result.innerHTML = "";
+// }
+
+
+// var fruits = ["apple" , "orange" , "mango" , "banana" ]
+// fruits.splice(2, 1, "nashpati")
+// console.log(fruits)
+
+// Pop
+// push
+
+// for(var i = 0; i < 10; i++){
+//     console.log("hello world");
+// }
+//  var num = 2 
+
+//  for(var i = 1; i < 10; i++){
+//     console.log(num * i )
+//  }
+
+// for(var i = 1; i < 10; i++){
+//     console.log("outer loop" )
+
+//     for(var j = 1; j < 10; j++){
+//         // console.log("inner loop" )
+//         console.log("i * j")
+//      }
+//  }
+
+
+
+
+
